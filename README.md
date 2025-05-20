@@ -1,8 +1,6 @@
-Sure! Here's the complete `README.md` content that you can **copy and paste directly** into your GitHub repository’s README section:
 
----
 
-```markdown
+
 # 🎬 Boom Entertainment
 
 Boom Entertainment is a mobile application built with **React Native** and **Expo** that mimics a social media video feed (like Instagram Reels or TikTok). Users can scroll through short videos, view user stories, and like content interactively.
@@ -24,7 +22,8 @@ Boom Entertainment is a mobile application built with **React Native** and **Exp
 
 <!-- Add screenshots here if available -->
 <p align="center">
-  <img src="assets/screenshot1.png" width="200"/>
+  ![boom screenshot1](https://github.com/user-attachments/assets/2c6bd9d7-1546-40c0-a719-275ba727fe72)
+
   <img src="assets/screenshot2.png" width="200"/>
 </p>
 
@@ -78,7 +77,6 @@ BoomEntertainment/
    * Use the **Expo Go** app to scan the QR code.
    * Or run on an Android/iOS emulator.
 
----
 
 ## 📋 To-Do (Upcoming Enhancements)
 
@@ -88,30 +86,25 @@ BoomEntertainment/
 * [ ] Video/story upload functionality
 * [ ] Push notifications
 
----
+
 
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
----
+
 
 ## 🔐 License
 
 This project is licensed under the **MIT License**.
 Feel free to use and modify it as needed.
 
----
+
 
 ## 🙋‍♂️ Author
 
 **Anand Kumar**
-📧 [anandkumarcse3125@gmail.com](mailto:anandkumarcse3125@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/anand3125)
+📧 [georgian3125anand@gmail.com](mailto:georgian3125anand@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/georgian3125anand/)
 
-```
 
----
-
-Let me know if you’d like me to generate badges (e.g., Expo, MIT License, React Native version) or add any deployment/demo links!
-```
