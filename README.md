@@ -57,33 +57,31 @@ Absolutely! Here's an improved and more polished version of the sections you men
 
 ---
 
-````markdown
+
 ## 📦 Getting Started
 
 Follow these steps to get Boom Entertainment up and running locally:
 
 ### 1. 🚀 Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/boom-entertainment.git
 cd boom-entertainment
-````
+
 
 ### 2. 📥 Install Dependencies
 
 Make sure you have **Node.js** and **Expo CLI** installed. Then run:
 
-```bash
 npm install
-```
+
 
 ### 3. ▶️ Start the Development Server
 
 Launch the app using:
 
-```bash
 npx expo start
-```
+
 
 This will open a new tab in your browser with the Expo Developer Tools.
 
@@ -94,7 +92,7 @@ You can preview the app using any of the following methods:
 * **Expo Go App**: Scan the QR code in your terminal/browser using the Expo Go app on your physical device (Android/iOS).
 * **Emulator**: Press `a` for Android emulator or `i` for iOS simulator (macOS only) in the Expo Dev Tools.
 
----
+
 
 ## 📋 Roadmap
 
@@ -106,7 +104,7 @@ Here are some planned features and enhancements:
 * [ ] ⬆️ Upload functionality for stories and videos
 * [ ] 🔔 Push notifications
 
----
+
 
 ## 🤝 Contributing
 
@@ -121,14 +119,14 @@ Feel free to fork the repo, make changes, and open a pull request.
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
 
----
+
 
 ## 🔐 License
 
 Distributed under the **MIT License**.
 Feel free to use, modify, and distribute for personal or commercial use.
 
----
+
 
 ## 🙋‍♂️ Author
 
@@ -136,12 +134,12 @@ Feel free to use, modify, and distribute for personal or commercial use.
 📧 [georgian3125anand@gmail.com](mailto:georgian3125anand@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/georgian3125anand/)
 
-```
-
----
 
 
-```
+
+
+
+
 
 
 
