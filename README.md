@@ -22,9 +22,10 @@ Boom Entertainment is a mobile application built with **React Native** and **Exp
 
 <!-- Add screenshots here if available -->
 <p align="center">
-  ![boom screenshot1](https://github.com/user-attachments/assets/2c6bd9d7-1546-40c0-a719-275ba727fe72)
 
-  <img src="assets/screenshot2.png" width="200"/>
+![boom screenshot1](https://github.com/user-attachments/assets/883d9d85-2d7d-43b0-9e87-1b1866143f15)
+
+
 </p>
 
 ---
