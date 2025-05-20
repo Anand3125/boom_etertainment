@@ -128,14 +128,19 @@ Feel free to use, modify, and distribute for personal or commercial use.
 
 
 
+
+
+
+
 ## 🙋‍♂️ Author
 
-**Anand Kumar**
-📧 [georgian3125anand@gmail.com](mailto:georgian3125anand@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/georgian3125anand/)
-
-
-
+**Anand Kumar**  
+📍 BTM Layout, Bengaluru, Karnataka  
+📧 [georgian3125anand@gmail.com](mailto:georgian3125anand@gmail.com) | 📞 +91 9430417562  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/919430417562)  
+📸 Instagram: [@anand_3125_2022](https://www.instagram.com/anand_3125_2022)  
+🔗 [LinkedIn](https://www.linkedin.com/in/georgian3125anand/) | 🌐 [Portfolio](#)  
+📅 Last Updated: May 20th, 2025
 
 
 
